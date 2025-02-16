@@ -7,8 +7,8 @@
 <p>🤔Glad to have some tips from you guys so I can be better in my work</p>
 
 <h4>⚙️Tools I work with</h4>
-<ul>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=20px height=20px>Python</li>
+<ul style="display:inline; ">
+  <li>Python</li>
   <li>Tkinter</li>
   <li>Django</li>
   <li>MySQL</li>
