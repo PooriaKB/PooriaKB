@@ -10,7 +10,7 @@
 <p>😍love learning new techs & creating apps</p>
 
 <h3>⚙️Tools I work with</h3>
-<ul style="list-type:none;">
+<ul style="list-style-type:none;">
   <li>HTML,CSS,JS</li>
   <li>Python</li>
   <li>Tkinter</li>
