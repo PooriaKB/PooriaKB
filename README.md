@@ -23,5 +23,4 @@
   <li>PostgreSQL</li>
   <li>Tkinter,CustomTkinter</li>
   <li>Kivy</li>
-  <li>Git</li>
 </ul>
