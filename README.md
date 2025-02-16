@@ -3,7 +3,9 @@
 
 <h3>😊I'm Pooria Kordbacheh</h3>
 
-<p>😁Here I will share my journy of learning software & web development</p>
+<p>🥸Born in 2000. I'm currently a bachelor student in IAU South Tehran Branch Faculty of Engineering</p>
+
+<p>😁Here I will share my journey of learning software & web development with some projects that I have done for learning techs</p>
 
 <p>🧐Would be glad to have some tips from you guys so I can be better in my work</p>
 
