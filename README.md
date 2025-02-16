@@ -1,7 +1,7 @@
 <h1>👋Hello & Welcome To My GitHub</h1>
 
 
-<h4>😊I'm Pooria Kordbacheh</h4>
+<h3>😊I'm Pooria Kordbacheh</h3>
 
 <p>😁Here I will share my journy of learning software & web development</p>
 
@@ -9,8 +9,8 @@
 
 <p>😍love learning new techs & creating apps</p>
 
-<h4>⚙️Tools I work with</h4>
-<ul>
+<h3>⚙️Tools I work with</h3>
+<ul style="list-type:none;">
   <li>HTML,CSS,JS</li>
   <li>Python</li>
   <li>Tkinter</li>
