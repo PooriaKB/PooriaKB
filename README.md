@@ -7,8 +7,6 @@
 
 <p>😁Here I will share my journey of learning software & web development with some projects that I have done for learning techs</p>
 
-<p>🧐Would be glad to have some tips from you guys so I can be better in my work</p>
-
 <p>😍Love learning new techs & creating apps</p>
 </br>
 </br>
