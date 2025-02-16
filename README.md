@@ -3,7 +3,7 @@
 
 <h3>😊I'm Pooria Kordbacheh</h3>
 
-<p>🥸Born in 2000. I'm currently a bachelor student in IAU South Tehran Branch Faculty of Engineering and a junior back-end developer</p>
+<p>🥸Born in 2000. I'm currently a bachelor software engineering student in IAU South Tehran Branch Faculty of Engineering and a junior back-end developer</p>
 
 <p>😁Here I will share my journey of learning software & web development with some projects that I have done for learning techs</p>
 
