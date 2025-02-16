@@ -8,7 +8,7 @@
 
 <h4>⚙️Tools I work with</h4>
 <ul>
-  <li><img src="https://www.pngwing.com/en/search?q=python" width=20px height=20px>Python</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=20px height=20px>Python</li>
   <li>Tkinter</li>
   <li>Django</li>
   <li>MySQL</li>
