@@ -8,7 +8,7 @@
 <p>🧐Would be glad to have some tips from you guys so I can be better in my work</p>
 
 <p>😍love learning new techs & creating apps</p>
-</hr>
+<hr>
 
 <h3>⚙️Tools I work with</h3>
 <ul>
