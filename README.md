@@ -9,7 +9,6 @@
 
 <p>😍Love learning new techs & creating apps</p>
 </br>
-</br>
 <hr>
 
 <h3>⚙️Tools I work with</h3>
