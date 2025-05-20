@@ -14,6 +14,8 @@
 <h3>⚙️Tools I work with</h3>
 <ul>
   <li>HTML,CSS,JS</li>
+  <li>C#</li>
+  <li>DotNet</li>
   <li>Python</li>
   <li>Django</li>
   <li>MySQL</li>
