@@ -3,11 +3,9 @@
 
 <h3>😊I'm Pooria Kordbacheh</h3>
 
-<p>🥸Born in 2000. I'm currently a bachelor software engineering student in IAU South Tehran Branch Faculty of Engineering and a junior back-end developer</p>
-
-<p>😁Here I will share my journey of learning software & web development with some projects that I have done for learning techs</p>
-
-<p>😍Love learning new techs & creating apps</p>
+<p>A motivated Computer Engineering student specializing in back-end development, with hands-on experience in ASP.NET Core, RESTful APIs, and relational databases (MySQL/SQL Server). Eager to contribute technical skills and collaborate with a dynamic team to build scalable solutions while advancing expertise in back-end development.</p>
+<p>Born in 2000 </p>
+<p>Currently a student in IAU South Tehran Branch Faculty of Engineering, Studying Software Engineering</p>
 </br>
 <hr>
 
@@ -15,11 +13,11 @@
 <ul>
   <li>HTML,CSS,JS</li>
   <li>C#</li>
-  <li>DotNet</li>
+  <li>.NET</li>
+  <li>WPF</li>
+  <li>ASP.NET Core</li>
+  <li>SQL Server</li>
   <li>Python</li>
-  <li>Django</li>
   <li>MySQL</li>
-  <li>PostgreSQL</li>
-  <li>Tkinter,CustomTkinter</li>
-  <li>Kivy</li>
 </ul>
+
