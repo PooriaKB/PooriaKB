@@ -22,10 +22,12 @@
   <a href="https://www.typescriptlang.org/" ><img width="80" height="80" alt="Screenshot 2025-12-26 131619" src="https://github.com/user-attachments/assets/1535f78f-6dda-4208-88cf-ea3a873baf44" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" ><img width="80" height="80" alt="SQL-Server-Logo" src="https://github.com/user-attachments/assets/1b8d8e35-6823-4f38-94e7-96eb7fdcd0fe" /></a>
   <a href="https://www.python.org/" ><img width="80" height="80" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/2c100877-d47f-43b3-9ef6-55f097bc7f25" /></a>
-  <a href="https://www.mysql.com/" ><img width="80" height="80" alt="pngimg com - mysql_PNG9" src="https://github.com/user-attachments/assets/3f78360e-fdf4-4988-b831-e3c4a209faf5" />
-</a>
+  <a href="https://www.mysql.com/" ><img width="80" height="80" alt="pngimg com - mysql_PNG9" src="https://github.com/user-attachments/assets/3f78360e-fdf4-4988-b831-e3c4a209faf5" /></a>
+  <a href="https://ubuntu.com/" ><img width="80" height="80" alt="UbuntuCoF svg" src="https://github.com/user-attachments/assets/9aec9b4b-daaf-470d-b5b3-5c58ddd66885" /></a>
+  <a href="https://git-scm.com/" ><img width="80" height="80" alt="Git_icon svg" src="https://github.com/user-attachments/assets/fae56618-8653-4a2c-9f83-1a4f44f7ab3f" /></a>
   
   
 </div>
+
 
 
